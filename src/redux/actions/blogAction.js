@@ -9,7 +9,7 @@
 
 export const GetBlog = {
 
-    BLOG: (payload) =>{
+    ALL: (payload) =>{
         return{
             type: 'GET_ALL_BLOG',
             payload: payload

@@ -8,7 +8,8 @@
 
 /**
  *  Go to newsapi.org -> and get your API KEY to retreive blog API's
- * 
+ *  
+ *  use backend LANGUAGE OR FRAMEWORKS (NODE, EXPRESS, PHP, LARABVEL OR DJANGO) to properly work this
  */
 
 let API_KEY = ``;
