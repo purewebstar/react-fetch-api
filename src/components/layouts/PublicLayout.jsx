@@ -7,14 +7,14 @@
 // -----------------------------------------------------------------
 import React from 'react';
 
-const App = () =>{
 
+const PublicLayout = () =>{
 
-  return (
-    <>
-     <h1> REACT - Fetching API </h1>
-    </>
-  );
-}
+    return(
+        <>
+         
+        </>
+    )
+};
 
-export default App;
+export default PublicLayout;

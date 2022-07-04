@@ -5,16 +5,9 @@
  *
  */
 // -----------------------------------------------------------------
-import React from 'react';
 
-const App = () =>{
+const config = {
 
+};
 
-  return (
-    <>
-     <h1> REACT - Fetching API </h1>
-    </>
-  );
-}
-
-export default App;
+export default config;
